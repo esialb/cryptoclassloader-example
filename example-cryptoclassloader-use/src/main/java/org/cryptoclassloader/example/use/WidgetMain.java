@@ -13,6 +13,7 @@ public class WidgetMain {
 		try {
 			ClassLoader ccl = new CryptoClassLoader(
 					"foobar",
+					WidgetMain.class.getClassLoader(),
 					new File("target/dependency/example-cryptoclassloader-impl.jar").toURI().toURL());
 			
 			for(Widget w : ServiceLoader.load(Widget.class, ccl))
