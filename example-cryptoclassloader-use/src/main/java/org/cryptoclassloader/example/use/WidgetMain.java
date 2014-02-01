@@ -2,7 +2,6 @@ package org.cryptoclassloader.example.use;
 
 import java.io.File;
 import java.io.IOException;
-import java.net.MalformedURLException;
 import java.util.ServiceLoader;
 
 import org.cryptoclassloader.CryptoClassLoader;
