@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.cryptoclassloader.example</groupId>
 		<artifactId>example-cryptoclassloader-parent</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>1.0.0-SNAPSHOT</version>
 		<relativePath>../example-cryptoclassloader-parent</relativePath>
 	</parent>
 	
@@ -13,7 +13,7 @@
 		<dependency>
 			<groupId>org.cryptoclassloader.example</groupId>
 			<artifactId>example-cryptoclassloader-api</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>org.cryptoclassloader</groupId>
