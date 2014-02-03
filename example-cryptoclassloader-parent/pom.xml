@@ -11,7 +11,7 @@
 			<dependency>
 				<groupId>org.cryptoclassloader</groupId>
 				<artifactId>cryptoclassloader</artifactId>
-				<version>0.0.1-SNAPSHOT</version>
+				<version>1.0.0-SNAPSHOT</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
@@ -34,7 +34,7 @@
 				<plugin>
 					<groupId>org.cryptoclassloader</groupId>
 					<artifactId>cryptoclassloader-maven-plugin</artifactId>
-					<version>0.0.1-SNAPSHOT</version>
+					<version>1.0.0-SNAPSHOT</version>
 				</plugin>
 			</plugins>
 		</pluginManagement>
